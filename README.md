@@ -10,14 +10,13 @@ Hello! My name is Nikita Yelnikov, and I am a computer science student with a pa
 
 ## Projects
 
-- Project 1: A Java-based web application for managing tasks and projects
-- Project 2: A Python script for automating repetitive tasks using Selenium
-- Project 3: A Golang REST API for a social networking platform
+- [Project 1](https://github.com/aldoushux503/QA_Automated_Testing_Practise): A Python project with testing the functionality of the site using Selenium
+- [Project 2](https://github.com/aldoushux503/QA_RobotFramework_DareIT): Automated site testing using RobotFramework
 
 ## Education
 
-I am currently a 2nd-year computer science student at [University Name]. During my studies, I have learned the fundamentals of programming, data structures, algorithms, and software development.
+I am currently a 2nd-year computer science student at Polish-Japanese Academy of Information Technology. During my studies, I have learned the fundamentals of programming, data structures, algorithms, and software development.
 
 ## Contact
 
-If you would like to get in touch with me, you can reach me via email at [Your Email] or connect with me on LinkedIn. Thank you for taking the time to review my portfolio!
+If you would like to get in touch with me, you can reach me via email at gostoldos@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/nikita-yelnikov-83310b1b9/). Thank you for taking the time to review my portfolio!
